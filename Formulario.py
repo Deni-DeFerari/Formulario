@@ -20,7 +20,7 @@ import pandas as pd
 # 1. LECTURA DE DATOS
 # ------------------------------------------------------
 df_ocos = pd.read_excel(
-    '/content/drive/MyDrive/Matriz 2025/Matriz CAPEX Regular 2025.xlsx',
+    'Matriz CAPEX Regular 2024.xlsx',
     sheet_name='Matriz 2025',
     header=5  # Salta las 5 primeras filas (cabecera en la fila 6)
 )
