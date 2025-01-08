@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1LARN3URFg3zdUZmxYDZtqiRIS9W3n_7i
 """
 
-!pip install ipywidgets openpyxl
+pip install ipywidgets openpyxl
 from google.colab import output
 output.enable_custom_widget_manager()
 
